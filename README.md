@@ -1,6 +1,6 @@
 # 🤖 Jarvis-AI-for-Windows
 
-### Next-Generation Personal AI Assistant — By FatihMakes
+### Next-Generation Personal AI Assistant
 
 A real-time voice AI that can hear, see, understand, and control your Windows computer.  
 Local execution. Zero subscriptions (unless you want to increase requests via Google AI Studio).  
